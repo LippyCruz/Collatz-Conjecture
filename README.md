@@ -7,3 +7,4 @@ Room (even number): Room/2
 
 Room (odd number): (Room * 3) + 1
 
+If possible, we hope to make it so at least the mechanics will carry on with each stage. But make each stage have their own uniqueness to them, related to the number assigned (maybe use the number in some equation that will determine the puzzles or assets within the stage)
